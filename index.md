@@ -13,6 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## What I love about CS193
 - Fun enviroment
 - My TA's
+- The slideshow presentations
 
 ```markdown
 Syntax highlighted code block
